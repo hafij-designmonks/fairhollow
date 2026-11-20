@@ -1,0 +1,5 @@
+:HL["/fairhollow/_next/static/chunks/03wuqvgpn7ok_.css","style"]
+:HL["/fairhollow/_next/static/media/4cf231d25563e07b-s.p.2874ccu1_u7jf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fairhollow/_next/static/media/b83a6b6f7e32c9fb-s.p.0waiv1vizwwb5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"H-rG4-kBZFe22y09wcca2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
